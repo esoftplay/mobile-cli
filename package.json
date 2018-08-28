@@ -1,0 +1,24 @@
+{
+  "name": "esoftplay-cli",
+  "version": "0.1.0",
+  "description": "command line interface to support esoftplay mobile framework",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoftplay/mobile-cli.git"
+  },
+  "keywords": [
+    "esoftplay-mobile-cli"
+  ],
+  "author": "Danang Widiantoro <danang@fisip.net>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/esoftplay/mobile-cli/issues"
+  },
+  "bin": {
+    "esp": "./cli.sh"
+  },
+  "homepage": "https://github.com/esoftplay/mobile-cli#readme",
+  "bundleDependencies": []
+}
